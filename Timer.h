@@ -1,3 +1,7 @@
+/*
+	I borrowed it from https://github.com/xxzxcuzx-me
+*/
+
 #pragma once
 #include <chrono>
 
